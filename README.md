@@ -23,5 +23,6 @@ Once you have completed the setup steps, you can run the Streamlit app locally:
 streamlit run Run.py
 ```
 Access the Streamlit app through your web browser, and follow the on-screen instructions to send bulk messages via WhatsApp.
+![WhatsApp Bulk Message Streamlit Selenium](Screenshot of the Web app.png.png)
 ##### Remarque : 
 This project was developed in Python 3.12. You can contribute to this project by forking the repository, making your changes, and creating a pull request.
